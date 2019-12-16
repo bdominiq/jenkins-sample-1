@@ -1,7 +1,7 @@
-package fr.orsys.samples;;
+package fr.orsys.samples;
 
 /**
- * Hello world!
+ ****** Hello world!
  *
  */
 public class App 
