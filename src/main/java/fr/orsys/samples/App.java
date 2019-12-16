@@ -1,10 +1,10 @@
 package fr.orsys.samples;
 
 /**
- ****** Hello world!
+ *Hello world!
  *
  */
-public class App 
+public cla;ss App 
 {
     public static void main( String[] args )
     {
