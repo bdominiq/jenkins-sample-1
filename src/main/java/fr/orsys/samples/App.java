@@ -1,4 +1,4 @@
-package fr.orsys.samples;
+package fr.orsys.samples;;
 
 /**
  * Hello world!
