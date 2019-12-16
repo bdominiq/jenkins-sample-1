@@ -4,7 +4,7 @@ package fr.orsys.samples;
  *Hello world!
  *
  */
-public cla;s;s App 
+public class App 
 {
     public static void main( String[] args )
     {
