@@ -45,7 +45,7 @@
 		</repository>
 	</distributionManagement>
 	<scm>
-		<connection>scm:git:https://github.com/bdominiq/jenkins-sample-1.git</connection>
+		<connection>scm:git:https://github.com/username/jenkins-sample-1.git</connection>
 		<url>https://github.com/bdominiq/jenkins-sample-1</url>
 		<developerConnection>scm:git:https://github.com/bdominiq/jenkins-sample-1.git</developerConnection>
         <tag>HEAD</tag>
